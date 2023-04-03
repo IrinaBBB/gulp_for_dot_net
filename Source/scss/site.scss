@@ -1,7 +1,2 @@
-body {
-
-  span {
-    color: aqua;
-    background: red;
-  }
-}
+// import vendor styles from node_modules to main.scss file  
+@import "../../node_modules/datatables.net-dt/css/jquery.dataTables";
